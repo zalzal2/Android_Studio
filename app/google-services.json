@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854112571996",
+    "project_id": "japanwordmemo",
+    "storage_bucket": "japanwordmemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854112571996:android:7fc995690365ee7a3dcc99",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854112571996-5ou4c4sr4b6416n893qlllbltplvs2ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3EoV19RvJs8omb2Q-9hUqewv3OSQ_AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854112571996-5ou4c4sr4b6416n893qlllbltplvs2ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
